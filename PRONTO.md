@@ -36,7 +36,6 @@ O pacote Python para consumir a API do PixGo foi criado com sucesso!
 - ✅ **CHECKLIST.md** - Checklist de uso
 - ✅ **CONTRIBUTING.md** - Guia de contribuição
 - ✅ **CHANGELOG.md** - Histórico de versões
-- ✅ **BANNER.txt** - Banner ASCII art
 
 ### ⚙️ Configuração
 - ✅ **setup.py** - Configuração de instalação tradicional
